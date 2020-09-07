@@ -1,12 +1,12 @@
 # ac-library-mirror
 
-This is a mirror of [`AtCoder Library (ACL)`](https://atcoder.jp/posts/518).
+This is an *unofficial* mirror of [AtCoder Library (ACL)](https://atcoder.jp/posts/518).
 The purpose of this repository is to keep track of changes on the original library.
 This may be helpful in creating wrapper in other languages as well.
 
 ## License
 
-Since all the files under `atcoder/` direcotry in the original zip file
+Since all the files under `atcoder/` directory in the original zip file
 are published under CC0 license, 
 the contents of this repository are also published under CC0 license too.
 There are no declaration about other files (documentations and `expand.py`),
