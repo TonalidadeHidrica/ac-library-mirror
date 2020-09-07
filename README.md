@@ -19,7 +19,7 @@ I am going to update this library accordingly.
 Note that if I am busy, I may not be able to do so.
 In such case, feel free to make pull requests.
 (If I am extremely busy then, I may not even have time to approve the request.
- in such case, please refer to fork repositories.)
+ In such case, please refer to fork repositories.)
 
 The current files are based on the following version:
 
