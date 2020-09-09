@@ -24,6 +24,6 @@ In such case, feel free to make pull requests.
 The current files are based on the following version:
 
 * Downloaded from: [`https://img.atcoder.jp/practice2/ac-library.zip`](https://img.atcoder.jp/practice2/ac-library.zip)
-* Date: `Mon, 07 Sep 2020 17:18:30 GMT`
+* Last-Modified: `Sun, 06 Sep 2020 12:55:26 GMT`
 * ETag: `"656af66e2fafc4c301dd3874bd74a2da"`
 * SHA512 hash: `3181df92edb1c4a7b09723f425df4734dfddc9d2899bf6fe544d1b9e848300f1e7186783faf9762d1c562cfe8f4c62cc6c57a7b63f5bd68e3168daa3236e7355`
