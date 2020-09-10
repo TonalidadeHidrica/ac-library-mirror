@@ -1,5 +1,8 @@
 # ac-library-mirror
 
+**This repository is deprecated and no longer maintained, 
+	because now there is an official repository [atcoder/ac-library](https://github.com/atcoder/ac-library).**
+
 This is an *unofficial* mirror of [AtCoder Library (ACL)](https://atcoder.jp/posts/518).
 The purpose of this repository is to keep track of changes on the original library.
 This may be helpful in creating wrapper in other languages as well.
